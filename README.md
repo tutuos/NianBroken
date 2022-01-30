@@ -1,14 +1,14 @@
 ![Github](https://github-readme-stats.vercel.app/api?username=NianBroken)
 
-零五年春 生于南方 喜静厌闹
+- 零五年春 生于南方 喜静厌闹
 
-患有 轻度抑郁 重度社恐 死亡恐惧症
+- 患有 轻度抑郁 重度社恐 死亡恐惧症
 
-是一位 悲观主义者
+- 是一位 悲观主义者
 
-热爱 计算机及编程
+- 热爱 计算机及编程
 
-喜欢 钢琴 吉他 素描
+- 喜欢 钢琴 吉他 素描
 
 [![Personal_Sakura_Guide_Page](https://github-readme-stats.vercel.app/api/pin/?username=NianBroken&repo=Personal_Sakura_Guide_Page)](https://github.com/NianBroken/Personal_Sakura_Guide_Page)
 [![Firework_Simulator](https://github-readme-stats.vercel.app/api/pin/?username=NianBroken&repo=Firework_Simulator)](https://github.com/NianBroken/Firework_Simulator)
