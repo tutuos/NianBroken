@@ -1,8 +1,5 @@
 ![Github](https://github-readme-stats.vercel.app/api?username=NianBroken)
 
-[![Personal_Sakura_Guide_Page](https://github-readme-stats.vercel.app/api/pin/?username=NianBroken&repo=Personal_Sakura_Guide_Page)](https://github.com/NianBroken/Personal_Sakura_Guide_Page)
-[![Firework_Simulator](https://github-readme-stats.vercel.app/api/pin/?username=NianBroken&repo=Firework_Simulator)](https://github.com/NianBroken/Firework_Simulator)
-
 零五年春 生于南方 喜静厌闹
 
 患有 轻度抑郁 重度社恐 死亡恐惧症
@@ -12,6 +9,9 @@
 热爱 计算机及编程
 
 喜欢 钢琴 吉他 素描
+
+[![Personal_Sakura_Guide_Page](https://github-readme-stats.vercel.app/api/pin/?username=NianBroken&repo=Personal_Sakura_Guide_Page)](https://github.com/NianBroken/Personal_Sakura_Guide_Page)
+[![Firework_Simulator](https://github-readme-stats.vercel.app/api/pin/?username=NianBroken&repo=Firework_Simulator)](https://github.com/NianBroken/Firework_Simulator)
 
 - QQ：[2971802058](http://wpa.qq.com/msgrd?v=3&uin=2971802058&site=qq&menu=yes "2971802058")
 - QQ频道：[NianBroken](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=lMckI&from=246610&biz=ka "NianBroken")
