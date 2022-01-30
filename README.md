@@ -1,9 +1,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=NianBroken)
 
 零五年春 生于南方 喜静厌闹
+
 患有 轻度抑郁 重度社恐 死亡恐惧症
+
 是一位 悲观主义者
+
 热爱 计算机及编程
+
 喜欢 钢琴 吉他 素描
 
 - QQ：[2971802058](http://wpa.qq.com/msgrd?v=3&uin=2971802058&site=qq&menu=yes "2971802058")
