@@ -1,6 +1,7 @@
-![](https://github-readme-stats.vercel.app/api?username=NianBroken)
+![Github](https://github-readme-stats.vercel.app/api?username=NianBroken)
 
 [![Personal_Sakura_Guide_Page](https://github-readme-stats.vercel.app/api/pin/?username=NianBroken&repo=Personal_Sakura_Guide_Page)](https://github.com/NianBroken/Personal_Sakura_Guide_Page)
+[![Firework_Simulator](https://github-readme-stats.vercel.app/api/pin/?username=NianBroken&repo=Firework_Simulator)](https://github.com/NianBroken/Firework_Simulator)
 
 零五年春 生于南方 喜静厌闹
 
