@@ -12,8 +12,7 @@
 
 - QQ：[2971802058](http://wpa.qq.com/msgrd?v=3&uin=2971802058&site=qq&menu=yes "2971802058")
 - QQ频道：[NianBroken](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=lMckI&from=246610&biz=ka "NianBroken")
-- 个人Gmail：[suinian666@gmail.com](mailto:suinian666@gmail.com "suinian666@gmail.com")
-- 本站邮箱：[admin@nianbroken.top](mailto:admin@nianbroken.top "admin@nianbroken.top")
+- Gmail：[suinian666@gmail.com](mailto:suinian666@gmail.com "suinian666@gmail.com")
 - 给我打钱：[https://www.nianbroken.top/money_receiving_QR_code](https://www.nianbroken.top/money_receiving_QR_code "https://www.nianbroken.top/money_receiving_QR_code")
 - Github：[https://github.com/nianbroken](https://github.com/nianbroken "https://github.com/nianbroken")
 - Gitee：[https://gitee.com/nianbroken](https://gitee.com/nianbroken "https://gitee.com/nianbroken")
