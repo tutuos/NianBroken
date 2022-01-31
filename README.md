@@ -13,12 +13,11 @@
 [![Personal_Sakura_Guide_Page](https://github-readme-stats.vercel.app/api/pin/?username=NianBroken&repo=Personal_Sakura_Guide_Page)](https://github.com/NianBroken/Personal_Sakura_Guide_Page)
 [![Firework_Simulator](https://github-readme-stats.vercel.app/api/pin/?username=NianBroken&repo=Firework_Simulator)](https://github.com/NianBroken/Firework_Simulator)
 
+- Blog:[SuiNian's Blog](https://blog.nianbroken.top/ "SuiNian's Blog")
 - QQ：[2971802058](http://wpa.qq.com/msgrd?v=3&uin=2971802058&site=qq&menu=yes "2971802058")
 - QQ频道：[NianBroken](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=lMckI&from=246610&biz=ka "NianBroken")
 - Gmail：[suinian666@gmail.com](mailto:suinian666@gmail.com "suinian666@gmail.com")
 - 给我打钱：[https://www.nianbroken.top/money_receiving_QR_code](https://www.nianbroken.top/money_receiving_QR_code "https://www.nianbroken.top/money_receiving_QR_code")
-- Github：[https://github.com/nianbroken](https://github.com/nianbroken "https://github.com/nianbroken")
-- Gitee：[https://gitee.com/nianbroken](https://gitee.com/nianbroken "https://gitee.com/nianbroken")
 - 酷安：[https://www.coolapk.com/u/1315644](https://www.coolapk.com/u/1315644 "https://www.coolapk.com/u/1315644")
 
 ------------
